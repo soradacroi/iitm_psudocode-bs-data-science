@@ -1,0 +1,272 @@
+[
+  {
+    "id": 20,
+    "name": "Kalyan",
+    "gender": "M",
+    "DoB": "17 Sep",
+    "Town_City": "Vellore",
+    "Marks": [93, 68, 91],
+    "Total": 252
+  },
+  {
+    "id": 21,
+    "name": "Monika",
+    "gender": "F",
+    "DoB": "15 Mar",
+    "Town_City": "Bengaluru",
+    "Marks": [78, 69, 74],
+    "Total": 221
+  },
+  {
+    "id": 22,
+    "name": "Priya",
+    "gender": "F",
+    "DoB": "17 Jul",
+    "Town_City": "Nagercoil",
+    "Marks": [62, 62, 57],
+    "Total": 181
+  },
+  {
+    "id": 23,
+    "name": "Deepika",
+    "gender": "F",
+    "DoB": "13 May",
+    "Town_City": "Bengaluru",
+    "Marks": [97, 91, 88],
+    "Total": 276
+  },
+  {
+    "id": 24,
+    "name": "Siddharth",
+    "gender": "M",
+    "DoB": "26 Dec",
+    "Town_City": "Madurai",
+    "Marks": [44, 72, 58],
+    "Total": 174
+  },
+  {
+    "id": 25,
+    "name": "Geeta",
+    "gender": "F",
+    "DoB": "16 May",
+    "Town_City": "Chennai",
+    "Marks": [87, 75, 92],
+    "Total": 254
+  },
+  {
+    "id": 26,
+    "name": "JK",
+    "gender": "M",
+    "DoB": "22 Jul",
+    "Town_City": "Chennai",
+    "Marks": [74, 71, 82],
+    "Total": 227
+  },
+  {
+    "id": 27,
+    "name": "Jagan",
+    "gender": "M",
+    "DoB": "4 Mar",
+    "Town_City": "Madurai",
+    "Marks": [81, 76, 52],
+    "Total": 209
+  },
+  {
+    "id": 28,
+    "name": "Nisha",
+    "gender": "F",
+    "DoB": "10 Sep",
+    "Town_City": "Madurai",
+    "Marks": [74, 83, 83],
+    "Total": 240
+  },
+  {
+    "id": 29,
+    "name": "Naveen",
+    "gender": "M",
+    "DoB": "13 Oct",
+    "Town_City": "Vellore",
+    "Marks": [72, 66, 81],
+    "Total": 219
+  },
+  {
+    "id": 0,
+    "name": "Bhuvamesh",
+    "gender": "M",
+    "DoB": "7 Nov",
+    "Town_City": "Erode",
+    "Marks": [68, 64, 78],
+    "Total": 210
+  },
+  {
+    "id": 1,
+    "name": "Harish",
+    "gender": "M",
+    "DoB": "3 June",
+    "Town_City": "Salem",
+    "Marks": [62, 45, 91],
+    "Total": 198
+  },
+  {
+    "id": 2,
+    "name": "Shashank",
+    "gender": "M",
+    "DoB": "4 Jan",
+    "Town_City": "Chennai",
+    "Marks": [57, 54, 77],
+    "Total": 188
+  },
+  {
+    "id": 3,
+    "name": "Rida",
+    "gender": "F",
+    "DoB": "5 May",
+    "Town_City": "Chennai",
+    "Marks": [42, 53, 78],
+    "Total": 173
+  },
+  {
+    "id": 4,
+    "name": "Ritika",
+    "gender": "F",
+    "DoB": "17 Nov",
+    "Town_City": "Madurai",
+    "Marks": [87, 64, 89],
+    "Total": 240
+  },
+  {
+    "id": 5,
+    "name": "Akshaya",
+    "gender": "F",
+    "DoB": "8 Feb",
+    "Town_City": "Chennai",
+    "Marks": [71, 92, 84],
+    "Total": 247
+  },
+  {
+    "id": 6,
+    "name": "Sameer",
+    "gender": "M",
+    "DoB": "23 Mar",
+    "Town_City": "Ambur",
+    "Marks": [81, 82, 87],
+    "Total": 250
+  },
+  {
+    "id": 7,
+    "name": "Aditya",
+    "gender": "M",
+    "DoB": "15 Mar",
+    "Town_City": "Vellore",
+    "Marks": [84, 92, 76],
+    "Total": 252
+  },
+  {
+    "id": 8,
+    "name": "Surya",
+    "gender": "M",
+    "DoB": "28 Feb",
+    "Town_City": "Bengaluru",
+    "Marks": [74, 64, 51],
+    "Total": 189
+  },
+  {
+    "id": 9,
+    "name": "Clarence",
+    "gender": "M",
+    "DoB": "6 Dec",
+    "Town_City": "Bengaluru",
+    "Marks": [63, 88, 73],
+    "Total": 224
+  },
+  {
+    "id": 10,
+    "name": "Kavya",
+    "gender": "F",
+    "DoB": "12 Jan",
+    "Town_City": "Chennai",
+    "Marks": [64, 72, 68],
+    "Total": 204
+  },
+  {
+    "id": 11,
+    "name": "Rahul",
+    "gender": "M",
+    "DoB": "30 Apr",
+    "Town_City": "Bengaluru",
+    "Marks": [97, 92, 92],
+    "Total": 281
+  },
+  {
+    "id": 12,
+    "name": "Srinidhi",
+    "gender": "F",
+    "DoB": "14 Jan",
+    "Town_City": "Chennai",
+    "Marks": [52, 64, 71],
+    "Total": 187
+  },
+  {
+    "id": 13,
+    "name": "Gopi",
+    "gender": "M",
+    "DoB": "6 May",
+    "Town_City": "Madurai",
+    "Marks": [65, 73, 89],
+    "Total": 227
+  },
+  {
+    "id": 14,
+    "name": "Sophia",
+    "gender": "F",
+    "DoB": "23 Jul",
+    "Town_City": "Trichy",
+    "Marks": [89, 62, 93],
+    "Total": 244
+  },
+  {
+    "id": 15,
+    "name": "Goutami",
+    "gender": "F",
+    "DoB": "22 Sep",
+    "Town_City": "Teni",
+    "Marks": [76, 58, 90],
+    "Total": 224
+  },
+  {
+    "id": 16,
+    "name": "Tauseef",
+    "gender": "M",
+    "DoB": "30 Dec",
+    "Town_City": "Trichy",
+    "Marks": [87, 86, 43],
+    "Total": 216
+  },
+  {
+    "id": 17,
+    "name": "Arshad",
+    "gender": "M",
+    "DoB": "14 Dec",
+    "Town_City": "Chennai",
+    "Marks": [62, 81, 67],
+    "Total": 210
+  },
+  {
+    "id": 18,
+    "name": "Abirami",
+    "gender": "F",
+    "DoB": "9 Oct",
+    "Town_City": "Erode",
+    "Marks": [72, 92, 97],
+    "Total": 261
+  },
+  {
+    "id": 19,
+    "name": "Vetrivel",
+    "gender": "M",
+    "DoB": "30 Aug",
+    "Town_City": "Trichy",
+    "Marks": [56, 78, 62],
+    "Total": 196
+  }
+]
