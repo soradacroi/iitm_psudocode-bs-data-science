@@ -1,9 +1,8 @@
 import helper as wh
 
+
 variable = {}
-while_counter = 0
-while_condition = []
-while_todo = []
+
 def tokenizer(file):
     file = file.split()
     temp = []
@@ -27,19 +26,54 @@ def tokenizer(file):
     print(file)
     if not file:
         raise ValueError("File is empty.")
-#    try:
-    for i in range(len(file)):
-            if file[i] == "=" and file[i+2] not in ["+", "-", "*", "/"]:
-                if file[i+1].isnumeric():
-                    variable[file[i-1]] = float(file[i+1])
-                elif file[i+1].isalpha():
-                    variable[file[i-1]] = file[i+1]
+
+    i = 0
+    while i < len(file):
+        if file[i] == "while":
             
-                elif (file[i-2] == "pile" and file[i] == "="):
-                    variable[("pile", file[i-1])] = file[i+1]
+            cond = []
+            todo = []
+            if file[i+1] == "(":
+                j = i+2
+                while file[j] != ")":
+                    cond.append(file[j])
+                    j += 1
+                j += 1  
+                
+                if file[j] == "{":
+                    j += 1
+                    brace_count = 1
+                    while brace_count > 0:
+                        if file[j] == "{":
+                            brace_count += 1
+                        elif file[j] == "}":
+                            brace_count -= 1
+                            if brace_count == 0:
+                                break
+                        if brace_count > 0:
+                            todo.append(file[j])
+                        j += 1
+                
+                wh.while_helper(variable, cond, todo)
+                i = j 
+        else:
+            logic(i, file)
+        i += 1
+
+    return file
+
+def logic(i, file):
+        if file[i] == "=" and file[i+2] not in ["+", "-", "*", "/"]:
+                    if file[i+1].isnumeric():
+                        variable[file[i-1]] = float(file[i+1])
+                    elif file[i+1].isalpha():
+                        variable[file[i-1]] = file[i+1]
+                
+                    elif (file[i-2] == "pile" and file[i] == "="):
+                        variable[("pile", file[i-1])] = file[i+1]
 
 
-            elif file[i] == "=" and file[i+2] in ["+", "-", "*", "/"]:
+        elif file[i] == "=" and file[i+2] in ["+", "-", "*", "/"]:
                 if (file[i+1] in variable.keys() and file[i+3].isnumeric()):
                     if file[i+2] == "+":
                         variable[file[i-1]] = variable[file[i+1]] + float(file[i+3])
@@ -79,47 +113,3 @@ def tokenizer(file):
                 elif (file[i+1].isalpha() and file[i+3].isalpha()):
                     if file[i+2] == "+":
                         variable[file[i-1]] = file[i+1] + " " + file[i+3]
-
-            elif file[i] == "while":
-                temp_while_condition = []
-                tempdo = []
-                stack_open = False
-                global while_counter
-                while_counter += 1
-                damn_counter = 0
-                for j in range(i+1, len(file)):
-                    
-                    if file[j] == ")" and stack_open == True:
-                        temp_while_condition = []
-                        stack_open = False
-                        
-                    elif stack_open == True:
-                        temp_while_condition.append(file[j])
-                        while_condition = temp_while_condition
-                    elif file[j] == "(" and file[j-1] == "while" :
-                        stack_open = True
-
-
-                    if file[j] == "}":
-                        damn_counter -= 1
-                    elif file[j] == "{":
-                        damn_counter += 1
-                    elif damn_counter != 0:
-                        tempdo.append(file[j])
-                        while_todo = tempdo
-                    elif damn_counter == 0:    
-                        tempdo = []
-
-
-                        
-                    #else: # just realize i have didnt made any functions lol lets just keep it that way (°ロ°)☝ lets confuse the crap out of other ppl who will review this, i will make it so shit and so un-optimize ehehehehehe  
-                    #    print(f"i am not gonna write every error u can do, but you made a mistake in the condition of a while loop. while_count: {while_counter} (while_count is the number of while index idk much english just understand)")
-                
-
-                wh.while_helper(variable, while_condition, while_todo)
-
-
-#    except:
-#        print("i am fucking lazy to write more errors just look in your .psc file bruh")
-    return file
-

@@ -19,8 +19,18 @@ while (pile 1 has more cards) {
 
 a = 10
 
-while (a >= 1) {
+while (a >= 2) {
     print -> a
     a = a - 1
 
 }
+
+g = 10
+
+while (g < 20) {
+    print -> g
+    g = g + 1
+
+}
+
+
