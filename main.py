@@ -1,4 +1,4 @@
-import tokenizer_n_logic 
+import tokenizer 
 import os, sys
 
 def run_my_language(file_path):
@@ -16,7 +16,7 @@ def run_my_language(file_path):
     try:
         with open(file_path, 'r') as file:
             code = file.read()
-            tokenizer_n_logic.tokenizer(code)
+            tokenizer.tokenizer(code)
             
 
     except Exception as e:
