@@ -1,21 +1,26 @@
 pile 1 = grade_card_data.json
 A = 0 
-while (Pile 1 has more cards) {
-    Read the top card X from pile 1
+C = 0
+while (pile 1 has more cards) {
+    read the top card X from pile 1
     if ( X.total > 220 ) {
         n = A + 1
         B = 1 + 2
         b = alu + bhindi
     }
-    move X to Pile 2
+    move X to pile 2
+
+    while (pile 2 has more cards) {
+    read the top card Y from pile 1
+        C = C + 1
+    move Y to pile 3
+    }
 }
 
-while (Pile 1 has more cards) {
-    Read the top card X from pile 1
-    if ( X.total > 220 ) {
-        n = A + 1
-        B = 1 + 2
-        b = alu + bhindi
-    }
-    move X to Pile 2
+a = 10
+
+while (a >= 1) {
+    print -> a
+    a = a - 1
+
 }
