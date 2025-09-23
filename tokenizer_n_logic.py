@@ -1,11 +1,12 @@
-import while_helper as wh
+import helper as wh
+
 
 variable = {}
 while_counter = 0
 while_condition = []
-damn = []
+while_todo = []
 def tokenizer(file):
-    file = file.lower().split()
+    file = file.split()
     temp = []
     for i in file:
         if i.endswith(")"):
@@ -24,7 +25,7 @@ def tokenizer(file):
             temp.append(i)
     temp = [s for s in temp if s.strip() != ""]
     file = temp
-    #print(file)
+    print(file)
     if not file:
         raise ValueError("File is empty.")
 #    try:
@@ -106,7 +107,7 @@ def tokenizer(file):
                         damn_counter += 1
                     elif damn_counter != 0:
                         tempdo.append(file[j])
-                        damn = tempdo
+                        while_todo = tempdo
                     elif damn_counter == 0:    
                         tempdo = []
 
@@ -114,8 +115,8 @@ def tokenizer(file):
                         
                     #else: # just realize i have didnt made any functions lol lets just keep it that way (°ロ°)☝ lets confuse the crap out of other ppl who will review this, i will make it so shit and so un-optimize ehehehehehe  
                     #    print(f"i am not gonna write every error u can do, but you made a mistake in the condition of a while loop. while_count: {while_counter} (while_count is the number of while index idk much english just understand)")
-                # i will not just nest i will build a fucking family here
-                wh.while_helper(variable, while_condition, damn)
+                
+                wh.while_helper(variable, while_condition, while_todo)
 
                     
 
