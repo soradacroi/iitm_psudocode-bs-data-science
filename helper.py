@@ -1,3 +1,4 @@
+
 import json
 
 variables = {}
@@ -11,10 +12,12 @@ def is_pile_tuple(x):
         return False
 
 
+
 def while_helper(var, while_con, while_stuff):
     global variables, while_condition, while_todo
     variables = var
     while_condition, while_todo = while_con, while_stuff
+
     print(while_stuff)
     for i in variables:
         #print(i)
@@ -28,6 +31,7 @@ def while_helper(var, while_con, while_stuff):
                 #print(dataset)
 #print(is_pile_tuple("ss"))
 #print(is_pile_tuple(("pile","1")))
+
 
 
 def if_condition():

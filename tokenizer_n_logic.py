@@ -1,6 +1,5 @@
 import helper as wh
 
-
 variable = {}
 while_counter = 0
 while_condition = []
@@ -116,11 +115,9 @@ def tokenizer(file):
                     #else: # just realize i have didnt made any functions lol lets just keep it that way (°ロ°)☝ lets confuse the crap out of other ppl who will review this, i will make it so shit and so un-optimize ehehehehehe  
                     #    print(f"i am not gonna write every error u can do, but you made a mistake in the condition of a while loop. while_count: {while_counter} (while_count is the number of while index idk much english just understand)")
                 
+
                 wh.while_helper(variable, while_condition, while_todo)
 
-                    
-
-    
 
 #    except:
 #        print("i am fucking lazy to write more errors just look in your .psc file bruh")
