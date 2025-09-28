@@ -35,7 +35,7 @@ def while_helper(var, while_con, while_stuff):
         while_looper_todo(while_todo)
 
 
-                #print(dataset)
+    print(dataset)
 #print(is_pile_tuple("ss"))
 #print(is_pile_tuple(("pile","1")))
 
