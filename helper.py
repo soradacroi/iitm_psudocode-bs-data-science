@@ -18,26 +18,34 @@ def is_pile_tuple(x):
         return False
 
 
-def while_helper(var, while_con, while_stuff):
+def helper(var, while_con, while_stuff):
     global variable, while_condition, while_todo
-    variable = var
+    variable.update(var)
     while_condition, while_todo = while_con, while_stuff
-    #print(while_stuff)
-    for i in variable:
-        #print(i)
-        if is_pile_tuple(i):
-            with open(rf'{variable[i]}', 'r') as f:
-                dataset[i[1]] = json.load(f)
+    
+    #print(piles)
+        
     con_tf = True
-    #print(while_todo, while_con)
+    
     while con_tf:
         con_tf = while_looper_con(while_con)
         while_looper_todo(while_todo)
+    
 
 
-    print(dataset)
+
+    
 #print(is_pile_tuple("ss"))
 #print(is_pile_tuple(("pile","1")))
+pile_vars = {}
+def useless_func(y, z):
+    
+    x = y[0]
+    y.pop(0)
+    global pile_vars
+    pile_vars[z] = x
+    
+
 
 
 def if_condition():
@@ -46,7 +54,24 @@ def if_condition():
 
 def while_looper_todo(while_todo):
     for i, elem in enumerate(while_todo):
-        logic(i, while_todo)
+            if elem != "read":
+                logic(i, while_todo)
+            else:
+                read_data(while_todo)
+
+def read_data(while_todo):
+    if 'read' in while_todo:
+        for k, elemk in enumerate(while_todo):
+            
+            if elemk == "pile":
+                for j, elemj in enumerate(while_todo):
+                    
+                    if elemj == "card":
+                        print("ok")
+                        
+
+
+    
         
 
 
@@ -91,6 +116,15 @@ def while_looper_con(while_con):
                 return True
             else:
                 return False
+    elif ["pile", "more"] in while_con:
+        for i in while_con:
+            if i.isnumeric():
+                if len(piles) > 0:
+                    return True
+                else:
+                    return False
+
+
             
     
 
@@ -103,6 +137,11 @@ def logic(i, file):
                 
                     elif (file[i-2] == "pile" and file[i] == "="):
                         variable[("pile", file[i-1])] = file[i+1]
+                        load_pile(file[i-1], file[i+1])
+
+                    
+                        
+                        
 
         elif file[i] == "print" and file[i + 2] in variable:
             print(variable[file[i + 2]])
