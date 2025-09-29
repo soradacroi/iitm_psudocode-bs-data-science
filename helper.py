@@ -12,6 +12,7 @@ def is_pile_tuple(x):
         return False
 
 
+<<<<<<< Updated upstream
 
 def while_helper(var, while_con, while_stuff):
     global variables, while_condition, while_todo
@@ -29,16 +30,179 @@ def while_helper(var, while_con, while_stuff):
 
 
                 #print(dataset)
+=======
+def helper(var, while_con, while_stuff):
+    global variable, while_condition, while_todo
+    variable.update(var)
+    while_condition, while_todo = while_con, while_stuff
+    
+    #print(piles)
+        
+    con_tf = True
+    
+    while con_tf:
+        con_tf = while_looper_con(while_con)
+        while_looper_todo(while_todo)
+    
+
+
+
+    
+>>>>>>> Stashed changes
 #print(is_pile_tuple("ss"))
 #print(is_pile_tuple(("pile","1")))
+pile_vars = {}
+def useless_func(y, z):
+    
+    x = y[0]
+    y.pop(0)
+    global pile_vars
+    pile_vars[z] = x
+    
+
 
 
 
 def if_condition():
     ...
 
+<<<<<<< Updated upstream
 def while_looper(while_con, while_stuff):
+=======
+
+def while_looper_todo(while_todo):
+    for i, elem in enumerate(while_todo):
+            if elem != "read":
+                logic(i, while_todo)
+            else:
+                read_data(while_todo)
+
+def read_data(while_todo):
+    if 'read' in while_todo:
+        for k, elemk in enumerate(while_todo):
+            
+            if elemk == "pile":
+                for j, elemj in enumerate(while_todo):
+                    
+                    if elemj == "card":
+                        print("ok")
+                        
+
+
+    
+        
+
+
+
+def while_looper_con(while_con):
+>>>>>>> Stashed changes
     if ">=" in while_con:
         if while_con[0] in variables:
             print("ok")
 
+<<<<<<< Updated upstream
+=======
+    elif ">" in while_con:
+        if while_con[0] in variable:
+            if variable[while_con[0]] > float(while_con[2]):
+                return True
+            else:
+                return False
+    elif "<=" in while_con:
+        if while_con[0] in variable:
+            if variable[while_con[0]] <= float(while_con[2]):
+                return True
+            else:
+                return False
+
+    elif "<" in while_con:
+        if while_con[0] in variable:
+            if variable[while_con[0]] < float(while_con[2]):
+                return True
+            else:
+                return False
+    elif "==" in while_con:
+        if while_con[0] in variable:
+            if variable[while_con[0]] == float(while_con[2]):
+                return True
+            else:
+                return False
+
+    elif "!=" in while_con:
+        if while_con[0] in variable:
+            if variable[while_con[0]] != float(while_con[2]):
+                return True
+            else:
+                return False
+    elif ["pile", "more"] in while_con:
+        for i in while_con:
+            if i.isnumeric():
+                if len(piles) > 0:
+                    return True
+                else:
+                    return False
+
+
+            
+    
+
+def logic(i, file):
+        if file[i] == "=" and file[i+2] not in ["+", "-", "*", "/"]:
+                    if file[i+1].isnumeric():
+                        variable[file[i-1]] = float(file[i+1])
+                    elif file[i+1].isalpha():
+                        variable[file[i-1]] = file[i+1]
+                
+                    elif (file[i-2] == "pile" and file[i] == "="):
+                        variable[("pile", file[i-1])] = file[i+1]
+                        load_pile(file[i-1], file[i+1])
+
+                    
+                        
+                        
+
+        elif file[i] == "print" and file[i + 2] in variable:
+            print(variable[file[i + 2]])
+
+
+        elif file[i] == "=" and file[i+2] in ["+", "-", "*", "/"]:
+                if (file[i+1] in variable.keys() and file[i+3].isnumeric()):
+                    if file[i+2] == "+":
+                        variable[file[i-1]] = variable[file[i+1]] + float(file[i+3])
+                    elif file[i+2] == "-":
+                        variable[file[i-1]] = variable[file[i+1]] - float(file[i+3])
+                    elif file[i+2] == "*":
+                        variable[file[i-1]] = variable[file[i+1]] * float(file[i+3])
+                    elif file[i+2] == "/":
+                        variable[file[i-1]] = variable[file[i+1]] / float(file[i+3])
+                elif (file[i+1].isnumeric() and file[i+3] in variable.keys()):
+                    if file[i+2] == "+":
+                        variable[file[i-1]] = float(file[i+1]) + variable[file[i+3]]
+                    elif file[i+2] == "-":
+                        variable[file[i-1]] = float(file[i+1]) - variable[file[i+3]]
+                    elif file[i+2] == "*":
+                        variable[file[i-1]] = float(file[i+1]) * variable[file[i+3]]
+                    elif file[i+2] == "/":
+                        variable[file[i-1]] = float(file[i+1]) / variable[file[i+3]]
+                elif (file[i+1] in variable.keys() and file[i+3] in variable.keys()):
+                    if file[i+2] == "+":
+                        variable[file[i-1]] = variable[file[i+1]] + variable[file[i+3]]
+                    elif file[i+2] == "-":
+                        variable[file[i-1]] = variable[file[i+1]] - variable[file[i+3]]
+                    elif file[i+2] == "*":
+                        variable[file[i-1]] = variable[file[i+1]] * variable[file[i+3]]
+                    elif file[i+2] == "/":
+                        variable[file[i-1]] = variable[file[i+1]] / variable[file[i+3]]
+                elif (file[i+1].isnumeric() and file[i+3].isnumeric()):
+                    if file[i+2] == "+":
+                        variable[file[i-1]] = float(file[i+1]) + float(file[i+3])
+                    elif file[i+2] == "-":
+                        variable[file[i-1]] = float(file[i+1]) - float(file[i+3])
+                    elif file[i+2] == "*":
+                        variable[file[i-1]] = float(file[i+1]) * float(file[i+3])
+                    elif file[i+2] == "/":
+                        variable[file[i-1]] = float(file[i+1]) / float(file[i+3])
+                elif (file[i+1].isalpha() and file[i+3].isalpha()):
+                    if file[i+2] == "+":
+                        variable[file[i-1]] = file[i+1] + " " + file[i+3]
+>>>>>>> Stashed changes
