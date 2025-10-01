@@ -1,0 +1,392 @@
+[
+  {
+    "serialnumber": "0",
+    "word": "It",
+    "partofspeech": "Pronoun",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "1",
+    "word": "was",
+    "partofspeech": "Verb",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "2",
+    "word": "Monday",
+    "partofspeech": "Noun",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "3",
+    "word": "morning.",
+    "partofspeech": "Noun",
+    "lettercount": "7"
+  },
+  {
+    "serialnumber": "4",
+    "word": "Swaminathan",
+    "partofspeech": "Noun",
+    "lettercount": "11"
+  },
+  {
+    "serialnumber": "5",
+    "word": "was",
+    "partofspeech": "Verb",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "6",
+    "word": "reluctant",
+    "partofspeech": "Adjective",
+    "lettercount": "9"
+  },
+  {
+    "serialnumber": "7",
+    "word": "to",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "8",
+    "word": "open",
+    "partofspeech": "Verb",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "9",
+    "word": "his",
+    "partofspeech": "Pronoun",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "10",
+    "word": "eyes.",
+    "partofspeech": "Noun",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "11",
+    "word": "He",
+    "partofspeech": "Pronoun",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "12",
+    "word": "considered",
+    "partofspeech": "Verb",
+    "lettercount": "10"
+  },
+  {
+    "serialnumber": "13",
+    "word": "Monday",
+    "partofspeech": "Noun",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "14",
+    "word": "specially",
+    "partofspeech": "Adverb",
+    "lettercount": "9"
+  },
+  {
+    "serialnumber": "15",
+    "word": "unpleasant",
+    "partofspeech": "Adjective",
+    "lettercount": "10"
+  },
+  {
+    "serialnumber": "16",
+    "word": "in",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "17",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "18",
+    "word": "calendar.",
+    "partofspeech": "Noun",
+    "lettercount": "8"
+  },
+  {
+    "serialnumber": "19",
+    "word": "After",
+    "partofspeech": "Preposition",
+    "lettercount": "5"
+  },
+  {
+    "serialnumber": "20",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "21",
+    "word": "delicious",
+    "partofspeech": "Adjective",
+    "lettercount": "9"
+  },
+  {
+    "serialnumber": "22",
+    "word": "freedom",
+    "partofspeech": "Noun",
+    "lettercount": "7"
+  },
+  {
+    "serialnumber": "23",
+    "word": "of",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "24",
+    "word": "Saturday",
+    "partofspeech": "Noun",
+    "lettercount": "8"
+  },
+  {
+    "serialnumber": "25",
+    "word": "And",
+    "partofspeech": "Conjunction",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "26",
+    "word": "Sunday,",
+    "partofspeech": "Noun",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "27",
+    "word": "it",
+    "partofspeech": "Pronoun",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "28",
+    "word": "was",
+    "partofspeech": "Verb",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "29",
+    "word": "difficult",
+    "partofspeech": "Adjective",
+    "lettercount": "9"
+  },
+  {
+    "serialnumber": "30",
+    "word": "to",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "31",
+    "word": "get",
+    "partofspeech": "Verb",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "32",
+    "word": "into",
+    "partofspeech": "Preposition",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "33",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "34",
+    "word": "Monday",
+    "partofspeech": "Noun",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "35",
+    "word": "mood",
+    "partofspeech": "Noun",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "36",
+    "word": "of",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "37",
+    "word": "work",
+    "partofspeech": "Noun",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "38",
+    "word": "and",
+    "partofspeech": "Conjunction",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "39",
+    "word": "discipline.",
+    "partofspeech": "Noun",
+    "lettercount": "10"
+  },
+  {
+    "serialnumber": "40",
+    "word": "He",
+    "partofspeech": "Pronoun",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "41",
+    "word": "shuddered",
+    "partofspeech": "Verb",
+    "lettercount": "9"
+  },
+  {
+    "serialnumber": "42",
+    "word": "at",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "43",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "44",
+    "word": "very",
+    "partofspeech": "Adverb",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "45",
+    "word": "thought",
+    "partofspeech": "Noun",
+    "lettercount": "7"
+  },
+  {
+    "serialnumber": "46",
+    "word": "of",
+    "partofspeech": "Preposition",
+    "lettercount": "2"
+  },
+  {
+    "serialnumber": "47",
+    "word": "school:",
+    "partofspeech": "Noun",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "48",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "49",
+    "word": "dismal",
+    "partofspeech": "Adjective",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "50",
+    "word": "yellow",
+    "partofspeech": "Adjective",
+    "lettercount": "6"
+  },
+  {
+    "serialnumber": "51",
+    "word": "building;",
+    "partofspeech": "Noun",
+    "lettercount": "8"
+  },
+  {
+    "serialnumber": "52",
+    "word": "the",
+    "partofspeech": "Article",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "53",
+    "word": "fire-eyed",
+    "partofspeech": "Adjective",
+    "lettercount": "8"
+  },
+  {
+    "serialnumber": "54",
+    "word": "Vedanayagam,",
+    "partofspeech": "Noun",
+    "lettercount": "11"
+  },
+  {
+    "serialnumber": "55",
+    "word": "his",
+    "partofspeech": "Pronoun",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "56",
+    "word": "class",
+    "partofspeech": "Noun",
+    "lettercount": "5"
+  },
+  {
+    "serialnumber": "57",
+    "word": "teacher,",
+    "partofspeech": "Noun",
+    "lettercount": "7"
+  },
+  {
+    "serialnumber": "58",
+    "word": "and",
+    "partofspeech": "Conjunction",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "59",
+    "word": "headmaster",
+    "partofspeech": "Noun",
+    "lettercount": "10"
+  },
+  {
+    "serialnumber": "60",
+    "word": "with",
+    "partofspeech": "Preposition",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "61",
+    "word": "his",
+    "partofspeech": "Pronoun",
+    "lettercount": "3"
+  },
+  {
+    "serialnumber": "62",
+    "word": "thin",
+    "partofspeech": "Adjective",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "63",
+    "word": "long",
+    "partofspeech": "Adjective",
+    "lettercount": "4"
+  },
+  {
+    "serialnumber": "64",
+    "word": "cane...",
+    "partofspeech": "Noun",
+    "lettercount": "4"
+  }
+]
