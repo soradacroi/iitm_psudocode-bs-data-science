@@ -1,0 +1,1327 @@
+[
+  {
+    "id": 1,
+    "store_name": "SV Stores",
+    "customer_name": "Srivatsan",
+    "total_cost": 567,
+    "items": [
+      {
+        "item": "Carrots",
+        "category": "Vegetables/Food",
+        "quantity": 1.5,
+        "price_per_unit": 50,
+        "cost": 75
+      },
+      {
+        "item": "Soap",
+        "category": "Toiletries",
+        "quantity": 4,
+        "price_per_unit": 32,
+        "cost": 128
+      },
+      {
+        "item": "Tomatoes",
+        "category": "Vegetables/Food",
+        "quantity": 2,
+        "price_per_unit": 40,
+        "cost": 80
+      },
+      {
+        "item": "Bananas",
+        "category": "Vegetables/Food",
+        "quantity": 8,
+        "price_per_unit": 8,
+        "cost": 64
+      },
+      {
+        "item": "Socks",
+        "category": "Footwear/Apparel",
+        "quantity": 3,
+        "price_per_unit": 56,
+        "cost": 168
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 0.5,
+        "price_per_unit": 32,
+        "cost": 16
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 1.5,
+        "price_per_unit": 24,
+        "cost": 36
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "store_name": "Big Bazaar",
+    "customer_name": "Sudeep",
+    "total_cost": 1525,
+    "items": [
+      {
+        "item": "Baked Beans",
+        "category": "Canned/Food",
+        "quantity": 1,
+        "price_per_unit": 125,
+        "cost": 125
+      },
+      {
+        "item": "Chicken Wings",
+        "category": "Meat/Food",
+        "quantity": 0.5,
+        "price_per_unit": 600,
+        "cost": 300
+      },
+      {
+        "item": "Cocoa powder",
+        "category": "Canned/Food",
+        "quantity": 1,
+        "price_per_unit": 160,
+        "cost": 160
+      },
+      {
+        "item": "Capsicum",
+        "category": "Vegetables/Food",
+        "quantity": 0.8,
+        "price_per_unit": 180,
+        "cost": 144
+      },
+      {
+        "item": "Tie",
+        "category": "Apparel",
+        "quantity": 2,
+        "price_per_unit": 390,
+        "cost": 780
+      },
+      {
+        "item": "Clips",
+        "category": "Household",
+        "quantity": 0.5,
+        "price_per_unit": 32,
+        "cost": 16
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "store_name": "SV Stores",
+    "customer_name": "Akshaya",
+    "total_cost": 1341,
+    "items": [
+      {
+        "item": "Face Wash",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 89,
+        "cost": 89
+      },
+      {
+        "item": "Shampoo",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 140,
+        "cost": 140
+      },
+      {
+        "item": "Onions",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 98,
+        "cost": 98
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 4,
+        "price_per_unit": 8,
+        "cost": 32
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 1,
+        "price_per_unit": 24,
+        "cost": 24
+      },
+      {
+        "item": "Biscuits",
+        "category": "Packed/Food",
+        "quantity": 2,
+        "price_per_unit": 22,
+        "cost": 44
+      },
+      {
+        "item": "Maggi",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 85,
+        "cost": 85
+      },
+      {
+        "item": "Horlicks",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 270,
+        "cost": 270
+      },
+      {
+        "item": "Chips",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 20,
+        "cost": 20
+      },
+      {
+        "item": "Chocolates",
+        "category": "Packed/Food",
+        "quantity": 4,
+        "price_per_unit": 10,
+        "cost": 40
+      },
+      {
+        "item": "Cereal",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 220,
+        "cost": 220
+      },
+      {
+        "item": "Handwash",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 139,
+        "cost": 139
+      },
+      {
+        "item": "Air freshener",
+        "category": "Toiletries",
+        "quantity": 2,
+        "price_per_unit": 70,
+        "cost": 140
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "store_name": "SV Stores",
+    "customer_name": "Advaith",
+    "total_cost": 123,
+    "items": [
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 2,
+        "price_per_unit": 24,
+        "cost": 48
+      },
+      {
+        "item": "Bread",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 30,
+        "cost": 30
+      },
+      {
+        "item": "Eggs",
+        "category": "Food",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "store_name": "Big Bazaar",
+    "customer_name": "Akshaya",
+    "total_cost": 4174,
+    "items": [
+      {
+        "item": "Trousers",
+        "category": "Women/Apparel",
+        "quantity": 2,
+        "price_per_unit": 870,
+        "cost": 1740
+      },
+      {
+        "item": "Shirts",
+        "category": "Women/Apparel",
+        "quantity": 1,
+        "price_per_unit": 1350,
+        "cost": 1350
+      },
+      {
+        "item": "Detergent",
+        "category": "Household",
+        "quantity": 0.5,
+        "price_per_unit": 270,
+        "cost": 135
+      },
+      {
+        "item": "Tee shirts",
+        "category": "Women/Apparel",
+        "quantity": 4,
+        "price_per_unit": 220,
+        "cost": 880
+      },
+      {
+        "item": "Instant Noodles",
+        "category": "Canned/Food",
+        "quantity": 3,
+        "price_per_unit": 23,
+        "cost": 69
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "store_name": "Sun General",
+    "customer_name": "Srivatsan",
+    "total_cost": 354,
+    "items": [
+      {
+        "item": "Batteries",
+        "category": "Utilities",
+        "quantity": 6,
+        "price_per_unit": 14,
+        "cost": 84
+      },
+      {
+        "item": "USB Cable",
+        "category": "Electronics",
+        "quantity": 1,
+        "price_per_unit": 85,
+        "cost": 85
+      },
+      {
+        "item": "Ball Pens",
+        "category": "Stationery",
+        "quantity": 5,
+        "price_per_unit": 12,
+        "cost": 60
+      },
+      {
+        "item": "Onions",
+        "category": "Vegetables/Food",
+        "quantity": 1.25,
+        "price_per_unit": 100,
+        "cost": 125
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "store_name": "SV Stores",
+    "customer_name": "Akhil",
+    "total_cost": 96,
+    "items": [
+      {
+        "item": "Bread",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 30,
+        "cost": 30
+      },
+      {
+        "item": "Biscuits",
+        "category": "Packed/Food",
+        "quantity": 3,
+        "price_per_unit": 22,
+        "cost": 66
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "store_name": "Big Bazaar",
+    "customer_name": "Advaith",
+    "total_cost": 3132,
+    "items": [
+      {
+        "item": "Trousers",
+        "category": "Men/Apparel",
+        "quantity": 2,
+        "price_per_unit": 950,
+        "cost": 1900
+      },
+      {
+        "item": "Basa Fish",
+        "category": "Meat/Food",
+        "quantity": 1,
+        "price_per_unit": 350,
+        "cost": 350
+      },
+      {
+        "item": "Boxers",
+        "category": "Men/Apparel",
+        "quantity": 4,
+        "price_per_unit": 160,
+        "cost": 640
+      },
+      {
+        "item": "Face Wash",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 72,
+        "cost": 72
+      },
+      {
+        "item": "Slippers",
+        "category": "Footwear/Apparel",
+        "quantity": 1,
+        "price_per_unit": 170,
+        "cost": 170
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "store_name": "Big Bazaar",
+    "customer_name": "Mohith",
+    "total_cost": 595,
+    "items": [
+      {
+        "item": "Lindt",
+        "category": "Chocolate/Food",
+        "quantity": 1,
+        "price_per_unit": 125,
+        "cost": 125
+      },
+      {
+        "item": "Socks",
+        "category": "Footwear/Apparel",
+        "quantity": 1,
+        "price_per_unit": 120,
+        "cost": 120
+      },
+      {
+        "item": "Spring Onions",
+        "category": "Vegetables/Food",
+        "quantity": 0.5,
+        "price_per_unit": 220,
+        "cost": 110
+      },
+      {
+        "item": "Lettuce",
+        "category": "Vegetables/Food",
+        "quantity": 0.6,
+        "price_per_unit": 150,
+        "cost": 90
+      },
+      {
+        "item": "Cookies",
+        "category": "Snacks/Food",
+        "quantity": 2,
+        "price_per_unit": 75,
+        "cost": 150
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "store_name": "Sun General",
+    "customer_name": "Rajesh",
+    "total_cost": 378,
+    "items": [
+      {
+        "item": "Notebooks",
+        "category": "Stationery",
+        "quantity": 3,
+        "price_per_unit": 20,
+        "cost": 60
+      },
+      {
+        "item": "Apples",
+        "category": "Fruits/Food",
+        "quantity": 6,
+        "price_per_unit": 24,
+        "cost": 144
+      },
+      {
+        "item": "Pears",
+        "category": "Fruits/Food",
+        "quantity": 4,
+        "price_per_unit": 30,
+        "cost": 120
+      },
+      {
+        "item": "Chart Paper",
+        "category": "Stationery",
+        "quantity": 2,
+        "price_per_unit": 22,
+        "cost": 44
+      },
+      {
+        "item": "Ruler",
+        "category": "Stationery",
+        "quantity": 1,
+        "price_per_unit": 10,
+        "cost": 10
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "store_name": "SV Stores",
+    "customer_name": "Abhinav",
+    "total_cost": 893,
+    "items": [
+      {
+        "item": "Chocolates",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 10,
+        "cost": 10
+      },
+      {
+        "item": "Cereal",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 220,
+        "cost": 220
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 6,
+        "price_per_unit": 8,
+        "cost": 48
+      },
+      {
+        "item": "Tomatoes",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 40,
+        "cost": 40
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 1,
+        "price_per_unit": 32,
+        "cost": 32
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 2,
+        "price_per_unit": 24,
+        "cost": 48
+      },
+      {
+        "item": "Horlicks",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 270,
+        "cost": 270
+      },
+      {
+        "item": "Plates",
+        "category": "Household",
+        "quantity": 4,
+        "price_per_unit": 45,
+        "cost": 180
+      },
+      {
+        "item": "Eggs",
+        "category": "Food",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "store_name": "Sun General",
+    "customer_name": "Aparna",
+    "total_cost": 186,
+    "items": [
+      {
+        "item": "Mosquito Coil",
+        "category": "Household",
+        "quantity": 2,
+        "price_per_unit": 24,
+        "cost": 48
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 6,
+        "price_per_unit": 5,
+        "cost": 30
+      },
+      {
+        "item": "Ball Pens",
+        "category": "Stationery",
+        "quantity": 4,
+        "price_per_unit": 12,
+        "cost": 48
+      },
+      {
+        "item": "Paper Clips",
+        "category": "Stationery",
+        "quantity": 1,
+        "price_per_unit": 60,
+        "cost": 60
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "store_name": "Big Bazaar",
+    "customer_name": "Abhinav",
+    "total_cost": 3060,
+    "items": [
+      {
+        "item": "Shoes",
+        "category": "Footwear/Apparel",
+        "quantity": 1,
+        "price_per_unit": 2700,
+        "cost": 2700
+      },
+      {
+        "item": "Polish",
+        "category": "Footwear/Apparel",
+        "quantity": 1,
+        "price_per_unit": 120,
+        "cost": 120
+      },
+      {
+        "item": "Socks",
+        "category": "Footwear/Apparel",
+        "quantity": 2,
+        "price_per_unit": 120,
+        "cost": 240
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "store_name": "Sun General",
+    "customer_name": "Vignesh",
+    "total_cost": 656,
+    "items": [
+      {
+        "item": "Phone Charger",
+        "category": "Utilities",
+        "quantity": 1,
+        "price_per_unit": 230,
+        "cost": 230
+      },
+      {
+        "item": "Razor Blades",
+        "category": "Grooming",
+        "quantity": 1,
+        "price_per_unit": 12,
+        "cost": 12
+      },
+      {
+        "item": "Razor",
+        "category": "Grooming",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      },
+      {
+        "item": "Shaving Lotion",
+        "category": "Grooming",
+        "quantity": 0.8,
+        "price_per_unit": 180,
+        "cost": 144
+      },
+      {
+        "item": "Earphones",
+        "category": "Electronics",
+        "quantity": 1,
+        "price_per_unit": 210,
+        "cost": 210
+      },
+      {
+        "item": "Pencils",
+        "category": "Stationery",
+        "quantity": 3,
+        "price_per_unit": 5,
+        "cost": 15
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "store_name": "Sun General",
+    "customer_name": "Abhinav",
+    "total_cost": 229,
+    "items": [
+      {
+        "item": "Toothpaste",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 89,
+        "cost": 89
+      },
+      {
+        "item": "Shampoo",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 140,
+        "cost": 140
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "store_name": "Sun General",
+    "customer_name": "Advaith",
+    "total_cost": 187,
+    "items": [
+      {
+        "item": "Pencils",
+        "category": "Stationery",
+        "quantity": 2,
+        "price_per_unit": 5,
+        "cost": 10
+      },
+      {
+        "item": "Notebooks",
+        "category": "Stationery",
+        "quantity": 4,
+        "price_per_unit": 20,
+        "cost": 80
+      },
+      {
+        "item": "Geometry Box",
+        "category": "Stationery",
+        "quantity": 1,
+        "price_per_unit": 72,
+        "cost": 72
+      },
+      {
+        "item": "Graph Book",
+        "category": "Stationery",
+        "quantity": 1,
+        "price_per_unit": 25,
+        "cost": 25
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "store_name": "SV Stores",
+    "customer_name": "George",
+    "total_cost": 279,
+    "items": [
+      {
+        "item": "Cereal",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 220,
+        "cost": 220
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 1,
+        "price_per_unit": 24,
+        "cost": 24
+      },
+      {
+        "item": "Cupcakes",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 25,
+        "cost": 25
+      },
+      {
+        "item": "Chocolates",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 10,
+        "cost": 10
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "store_name": "SV Stores",
+    "customer_name": "Ahmed",
+    "total_cost": 603,
+    "items": [
+      {
+        "item": "Tomatoes",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 40,
+        "cost": 40
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 1,
+        "price_per_unit": 32,
+        "cost": 32
+      },
+      {
+        "item": "Cupcakes",
+        "category": "Packed/Food",
+        "quantity": 2,
+        "price_per_unit": 25,
+        "cost": 50
+      },
+      {
+        "item": "Carrots",
+        "category": "Vegetables/Food",
+        "quantity": 1.5,
+        "price_per_unit": 50,
+        "cost": 75
+      },
+      {
+        "item": "Beans",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      },
+      {
+        "item": "Onions",
+        "category": "Vegetables/Food",
+        "quantity": 0.5,
+        "price_per_unit": 98,
+        "cost": 49
+      },
+      {
+        "item": "Turmeric",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 82,
+        "cost": 82
+      },
+      {
+        "item": "Ghee",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 230,
+        "cost": 230
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "store_name": "SV Stores",
+    "customer_name": "Neeraja",
+    "total_cost": 592,
+    "items": [
+      {
+        "item": "Carrots",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 50,
+        "cost": 50
+      },
+      {
+        "item": "Horlicks",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 270,
+        "cost": 270
+      },
+      {
+        "item": "Chips",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 20,
+        "cost": 20
+      },
+      {
+        "item": "Kajal",
+        "category": "Cosmetics",
+        "quantity": 1,
+        "price_per_unit": 180,
+        "cost": 180
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 3,
+        "price_per_unit": 24,
+        "cost": 72
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "store_name": "SV Stores",
+    "customer_name": "Ahmed",
+    "total_cost": 622,
+    "items": [
+      {
+        "item": "Tomatoes",
+        "category": "Vegetables/Food",
+        "quantity": 2,
+        "price_per_unit": 40,
+        "cost": 80
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 2,
+        "price_per_unit": 32,
+        "cost": 64
+      },
+      {
+        "item": "Cupcakes",
+        "category": "Packed/Food",
+        "quantity": 3,
+        "price_per_unit": 25,
+        "cost": 75
+      },
+      {
+        "item": "Carrots",
+        "category": "Vegetables/Food",
+        "quantity": 0.5,
+        "price_per_unit": 50,
+        "cost": 25
+      },
+      {
+        "item": "Onions",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 98,
+        "cost": 98
+      },
+      {
+        "item": "Handwash",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 139,
+        "cost": 139
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 12,
+        "price_per_unit": 8,
+        "cost": 96
+      },
+      {
+        "item": "Eggs",
+        "category": "Food",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "store_name": "SV Stores",
+    "customer_name": "Akshaya",
+    "total_cost": 128,
+    "items": [
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 0.5,
+        "price_per_unit": 32,
+        "cost": 16
+      },
+      {
+        "item": "Butter",
+        "category": "Dairy/Food",
+        "quantity": 0.2,
+        "price_per_unit": 320,
+        "cost": 64
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 2,
+        "price_per_unit": 24,
+        "cost": 48
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "store_name": "Sun General",
+    "customer_name": "Suresh",
+    "total_cost": 315,
+    "items": [
+      {
+        "item": "Batteries",
+        "category": "Utilities",
+        "quantity": 2,
+        "price_per_unit": 14,
+        "cost": 28
+      },
+      {
+        "item": "Tomatoes",
+        "category": "Vegetables/Food",
+        "quantity": 1.5,
+        "price_per_unit": 80,
+        "cost": 120
+      },
+      {
+        "item": "Spinach",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 15,
+        "cost": 15
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 4,
+        "price_per_unit": 5,
+        "cost": 20
+      },
+      {
+        "item": "Mosquito coils",
+        "category": "Household",
+        "quantity": 1,
+        "price_per_unit": 24,
+        "cost": 24
+      },
+      {
+        "item": "Guava",
+        "category": "Fruits/Food",
+        "quantity": 0.4,
+        "price_per_unit": 120,
+        "cost": 48
+      },
+      {
+        "item": "Potato",
+        "category": "Vegetables/Food",
+        "quantity": 1.5,
+        "price_per_unit": 40,
+        "cost": 60
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "store_name": "SV Stores",
+    "customer_name": "Julia",
+    "total_cost": 888,
+    "items": [
+      {
+        "item": "Carrots",
+        "category": "Vegetables/Food",
+        "quantity": 1.5,
+        "price_per_unit": 50,
+        "cost": 75
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 12,
+        "price_per_unit": 8,
+        "cost": 96
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 3,
+        "price_per_unit": 32,
+        "cost": 96
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 4,
+        "price_per_unit": 24,
+        "cost": 96
+      },
+      {
+        "item": "Cereal",
+        "category": "Packed/Food",
+        "quantity": 2,
+        "price_per_unit": 220,
+        "cost": 440
+      },
+      {
+        "item": "Maggi",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 85,
+        "cost": 85
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "store_name": "SV Stores",
+    "customer_name": "Neeraja",
+    "total_cost": 92,
+    "items": [
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 3,
+        "price_per_unit": 24,
+        "cost": 72
+      },
+      {
+        "item": "Chips",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 20,
+        "cost": 20
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "store_name": "Sun General",
+    "customer_name": "Ahmed",
+    "total_cost": 1364,
+    "items": [
+      {
+        "item": "Earphones",
+        "category": "Electronics",
+        "quantity": 1,
+        "price_per_unit": 210,
+        "cost": 210
+      },
+      {
+        "item": "Phone cover",
+        "category": "Accessories",
+        "quantity": 1,
+        "price_per_unit": 140,
+        "cost": 140
+      },
+      {
+        "item": "Dongle",
+        "category": "Electronics",
+        "quantity": 1,
+        "price_per_unit": 790,
+        "cost": 790
+      },
+      {
+        "item": "A4 sheets",
+        "category": "Stationery",
+        "quantity": 200,
+        "price_per_unit": 1,
+        "cost": 200
+      },
+      {
+        "item": "Ball Pens",
+        "category": "Stationery",
+        "quantity": 2,
+        "price_per_unit": 12,
+        "cost": 24
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "store_name": "SV Stores",
+    "customer_name": "Srivatsan",
+    "total_cost": 276,
+    "items": [
+      {
+        "item": "Beans",
+        "category": "Vegetables/Food",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      },
+      {
+        "item": "Bread",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 30,
+        "cost": 30
+      },
+      {
+        "item": "Onions",
+        "category": "Vegetables/Food",
+        "quantity": 0.5,
+        "price_per_unit": 98,
+        "cost": 49
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 6,
+        "price_per_unit": 8,
+        "cost": 48
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 1,
+        "price_per_unit": 32,
+        "cost": 32
+      },
+      {
+        "item": "Milk",
+        "category": "Dairy/Food",
+        "quantity": 3,
+        "price_per_unit": 24,
+        "cost": 72
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "store_name": "Sun General",
+    "customer_name": "Srivatsan",
+    "total_cost": 340,
+    "items": [
+      {
+        "item": "Broom",
+        "category": "Household",
+        "quantity": 1,
+        "price_per_unit": 70,
+        "cost": 70
+      },
+      {
+        "item": "Dustpan",
+        "category": "Household",
+        "quantity": 1,
+        "price_per_unit": 45,
+        "cost": 45
+      },
+      {
+        "item": "Floor Cleaner",
+        "category": "Household",
+        "quantity": 1,
+        "price_per_unit": 125,
+        "cost": 125
+      },
+      {
+        "item": "Tissue Paper",
+        "category": "Household",
+        "quantity": 2,
+        "price_per_unit": 50,
+        "cost": 100
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "store_name": "SV Stores",
+    "customer_name": "Vignesh",
+    "total_cost": 514,
+    "items": [
+      {
+        "item": "Face Wash",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 89,
+        "cost": 89
+      },
+      {
+        "item": "Shampoo",
+        "category": "Toiletries",
+        "quantity": 1,
+        "price_per_unit": 140,
+        "cost": 140
+      },
+      {
+        "item": "Maggi",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 85,
+        "cost": 85
+      },
+      {
+        "item": "Chips",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 20,
+        "cost": 20
+      },
+      {
+        "item": "Chocolates",
+        "category": "Packed/Food",
+        "quantity": 4,
+        "price_per_unit": 10,
+        "cost": 40
+      },
+      {
+        "item": "Air Freshener",
+        "category": "Toiletries",
+        "quantity": 2,
+        "price_per_unit": 70,
+        "cost": 140
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "store_name": "SV Stores",
+    "customer_name": "Ahmed",
+    "total_cost": 106,
+    "items": [
+      {
+        "item": "Chocolates",
+        "category": "Packed/Food",
+        "quantity": 1,
+        "price_per_unit": 10,
+        "cost": 10
+      },
+      {
+        "item": "Curd",
+        "category": "Dairy/Food",
+        "quantity": 2,
+        "price_per_unit": 32,
+        "cost": 64
+      },
+      {
+        "item": "Bananas",
+        "category": "Fruits/Food",
+        "quantity": 4,
+        "price_per_unit": 8,
+        "cost": 32
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "store_name": "Big Bazaar",
+    "customer_name": "Radha",
+    "total_cost": 798,
+    "items": [
+      {
+        "item": "Broccoli",
+        "category": "Vegetables/Food",
+        "quantity": 0.5,
+        "price_per_unit": 120,
+        "cost": 60
+      },
+      {
+        "item": "Chicken Legs",
+        "category": "Meat/Food",
+        "quantity": 0.5,
+        "price_per_unit": 320,
+        "cost": 160
+      },
+      {
+        "item": "Basa Fish",
+        "category": "Meat/Food",
+        "quantity": 1,
+        "price_per_unit": 350,
+        "cost": 350
+      },
+      {
+        "item": "Lettuce",
+        "category": "Vegetables/Food",
+        "quantity": 0.8,
+        "price_per_unit": 150,
+        "cost": 120
+      },
+      {
+        "item": "Eggs",
+        "category": "Meat/Food",
+        "quantity": 12,
+        "price_per_unit": 9,
+        "cost": 108
+      }
+    ]
+  }
+]
