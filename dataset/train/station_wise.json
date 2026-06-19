@@ -1,0 +1,1983 @@
+[
+  {
+    "station": "Adra",
+    "trains": [
+      {
+        "train_no": "12282",
+        "arr": "03:40",
+        "dep": "03:50",
+        "days": "F"
+      },
+      {
+        "train_no": "12281",
+        "arr": "14:56",
+        "dep": "15:00",
+        "days": "W"
+      }
+    ]
+  },
+  {
+    "station": "Ahmedabad",
+    "trains": [
+      {
+        "train_no": "12267",
+        "arr": "05:55",
+        "dep": "06:15",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12298",
+        "arr": "06:30",
+        "dep": "--",
+        "days": "Tu F Su"
+      },
+      {
+        "train_no": "12268",
+        "arr": "23:15",
+        "dep": "23:36",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12297",
+        "arr": "--",
+        "dep": "22:25",
+        "days": "M Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Asansol",
+    "trains": [
+      {
+        "train_no": "02213",
+        "arr": "01:08",
+        "dep": "01:12",
+        "days": "Tu Th Sa"
+      },
+      {
+        "train_no": "02214",
+        "arr": "01:56",
+        "dep": "02:01",
+        "days": "W F Su"
+      },
+      {
+        "train_no": "12274",
+        "arr": "07:35",
+        "dep": "07:40",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12273",
+        "arr": "10:56",
+        "dep": "11:00",
+        "days": "M F"
+      }
+    ]
+  },
+  {
+    "station": "Balasore",
+    "trains": [
+      {
+        "train_no": "12282",
+        "arr": "07:33",
+        "dep": "07:38",
+        "days": "F"
+      },
+      {
+        "train_no": "12281",
+        "arr": "10:44",
+        "dep": "10:49",
+        "days": "W"
+      }
+    ]
+  },
+  {
+    "station": "Balharshah",
+    "trains": [
+      {
+        "train_no": "02286",
+        "arr": "08:10",
+        "dep": "08:15",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12270",
+        "arr": "08:10",
+        "dep": "08:15",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12213",
+        "arr": "13:31",
+        "dep": "13:35",
+        "days": "Su"
+      },
+      {
+        "train_no": "12214",
+        "arr": "16:56",
+        "dep": "17:00",
+        "days": "Tu"
+      },
+      {
+        "train_no": "12269",
+        "arr": "18:06",
+        "dep": "18:11",
+        "days": "M F"
+      },
+      {
+        "train_no": "02285",
+        "arr": "18:06",
+        "dep": "18:11",
+        "days": "Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Bengaluru",
+    "trains": [
+      {
+        "train_no": "12214",
+        "arr": "07:55",
+        "dep": "--",
+        "days": "W"
+      },
+      {
+        "train_no": "02246",
+        "arr": "--",
+        "dep": "11:00",
+        "days": "M Tu Th F Su"
+      },
+      {
+        "train_no": "02245",
+        "arr": "16:00",
+        "dep": "--",
+        "days": "M W Th Sa Su"
+      },
+      {
+        "train_no": "12213",
+        "arr": "--",
+        "dep": "23:40",
+        "days": "Sa"
+      }
+    ]
+  },
+  {
+    "station": "Bhopal",
+    "trains": [
+      {
+        "train_no": "02286",
+        "arr": "00:01",
+        "dep": "00:06",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02285",
+        "arr": "02:15",
+        "dep": "02:20",
+        "days": "M F"
+      },
+      {
+        "train_no": "12269",
+        "arr": "02:18",
+        "dep": "02:20",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12214",
+        "arr": "08:20",
+        "dep": "08:25",
+        "days": "Tu"
+      },
+      {
+        "train_no": "12213",
+        "arr": "21:20",
+        "dep": "21:25",
+        "days": "Su"
+      },
+      {
+        "train_no": "12270",
+        "arr": "23:59",
+        "dep": "00:04",
+        "days": "W Su"
+      }
+    ]
+  },
+  {
+    "station": "Bhubaneswar",
+    "trains": [
+      {
+        "train_no": "02201",
+        "arr": "03:30",
+        "dep": "--",
+        "days": "Tu Th Sa"
+      },
+      {
+        "train_no": "12281",
+        "arr": "--",
+        "dep": "07:40",
+        "days": "W"
+      },
+      {
+        "train_no": "02246",
+        "arr": "09:50",
+        "dep": "10:00",
+        "days": "M Tu W F Sa"
+      },
+      {
+        "train_no": "12282",
+        "arr": "11:15",
+        "dep": "--",
+        "days": "F"
+      },
+      {
+        "train_no": "02245",
+        "arr": "16:50",
+        "dep": "17:00",
+        "days": "Tu W F Sa Su"
+      },
+      {
+        "train_no": "02202",
+        "arr": "--",
+        "dep": "20:15",
+        "days": "Tu Th Sa"
+      }
+    ]
+  },
+  {
+    "station": "Bhusaval",
+    "trains": [
+      {
+        "train_no": "12290",
+        "arr": "01:20",
+        "dep": "01:25",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12289",
+        "arr": "02:00",
+        "dep": "02:05",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12222",
+        "arr": "03:42",
+        "dep": "03:47",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12262",
+        "arr": "03:42",
+        "dep": "03:47",
+        "days": "Tu W Th Sa"
+      },
+      {
+        "train_no": "12294",
+        "arr": "08:56",
+        "dep": "09:00",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12221",
+        "arr": "22:40",
+        "dep": "22:45",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12261",
+        "arr": "23:00",
+        "dep": "23:06",
+        "days": "Tu W Th Su"
+      },
+      {
+        "train_no": "12293",
+        "arr": "23:00",
+        "dep": "23:06",
+        "days": "M F"
+      }
+    ]
+  },
+  {
+    "station": "Bikaner",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "--",
+        "dep": "12:15",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12259",
+        "arr": "19:15",
+        "dep": "--",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Bilaspur",
+    "trains": [
+      {
+        "train_no": "12261",
+        "arr": "09:56",
+        "dep": "10:06",
+        "days": "M W Th F"
+      },
+      {
+        "train_no": "12221",
+        "arr": "09:56",
+        "dep": "10:06",
+        "days": "Tu Su"
+      },
+      {
+        "train_no": "12222",
+        "arr": "17:36",
+        "dep": "17:45",
+        "days": "Th Sa"
+      },
+      {
+        "train_no": "12262",
+        "arr": "17:36",
+        "dep": "17:45",
+        "days": "M Tu W F"
+      }
+    ]
+  },
+  {
+    "station": "Chennai",
+    "trains": [
+      {
+        "train_no": "12269",
+        "arr": "--",
+        "dep": "06:40",
+        "days": "M F"
+      },
+      {
+        "train_no": "12270",
+        "arr": "20:40",
+        "dep": "--",
+        "days": "W Su"
+      }
+    ]
+  },
+  {
+    "station": "Churu",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "14:36",
+        "dep": "14:40",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12259",
+        "arr": "16:06",
+        "dep": "16:08",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Daund",
+    "trains": [
+      {
+        "train_no": "12222",
+        "arr": "10:00",
+        "dep": "10:15",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12221",
+        "arr": "16:20",
+        "dep": "16:36",
+        "days": "M Sa"
+      }
+    ]
+  },
+  {
+    "station": "Dhanbad",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "08:58",
+        "dep": "09:03",
+        "days": "Tu W F Sa"
+      },
+      {
+        "train_no": "12259",
+        "arr": "21:52",
+        "dep": "21:56",
+        "days": "M W Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Ernakulam",
+    "trains": [
+      {
+        "train_no": "02284",
+        "arr": "18:20",
+        "dep": "--",
+        "days": "M"
+      },
+      {
+        "train_no": "12223",
+        "arr": "20:15",
+        "dep": "--",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02283",
+        "arr": "--",
+        "dep": "23:25",
+        "days": "Tu"
+      },
+      {
+        "train_no": "12224",
+        "arr": "--",
+        "dep": "23:25",
+        "days": "W Su"
+      }
+    ]
+  },
+  {
+    "station": "Guntakal",
+    "trains": [
+      {
+        "train_no": "12214",
+        "arr": "02:58",
+        "dep": "03:00",
+        "days": "W"
+      },
+      {
+        "train_no": "12213",
+        "arr": "03:45",
+        "dep": "03:50",
+        "days": "Su"
+      }
+    ]
+  },
+  {
+    "station": "Gwalior",
+    "trains": [
+      {
+        "train_no": "12269",
+        "arr": "06:51",
+        "dep": "06:53",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12270",
+        "arr": "19:09",
+        "dep": "19:11",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Kolkata (1/2)",
+    "trains": [
+      {
+        "train_no": "02202",
+        "arr": "04:15",
+        "dep": "--",
+        "days": "W F Su"
+      },
+      {
+        "train_no": "02214",
+        "arr": "05:40",
+        "dep": "--",
+        "days": "W F Su"
+      },
+      {
+        "train_no": "12222",
+        "arr": "--",
+        "dep": "08:20",
+        "days": "Th Sa"
+      },
+      {
+        "train_no": "12262",
+        "arr": "--",
+        "dep": "08:20",
+        "days": "M Tu W F"
+      },
+      {
+        "train_no": "12273",
+        "arr": "--",
+        "dep": "08:35",
+        "days": "M F"
+      },
+      {
+        "train_no": "12274",
+        "arr": "10:40",
+        "dep": "--",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02245",
+        "arr": "--",
+        "dep": "10:50",
+        "days": "Tu W F Sa Su"
+      },
+      {
+        "train_no": "12260",
+        "arr": "12:45",
+        "dep": "--",
+        "days": "Tu W F Sa"
+      },
+      {
+        "train_no": "02246",
+        "arr": "16:45",
+        "dep": "--",
+        "days": "M Tu W F Sa"
+      },
+      {
+        "train_no": "12259",
+        "arr": "--",
+        "dep": "18:31",
+        "days": "M W Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Kolkata (2/2)",
+    "trains": [
+      {
+        "train_no": "12261",
+        "arr": "19:50",
+        "dep": "--",
+        "days": "M W Th F"
+      },
+      {
+        "train_no": "12221",
+        "arr": "19:50",
+        "dep": "--",
+        "days": "Tu Su"
+      },
+      {
+        "train_no": "02201",
+        "arr": "--",
+        "dep": "20:00",
+        "days": "M W F"
+      },
+      {
+        "train_no": "02213",
+        "arr": "--",
+        "dep": "22:00",
+        "days": "M W F"
+      }
+    ]
+  },
+  {
+    "station": "Igatpuri",
+    "trains": [
+      {
+        "train_no": "12290",
+        "arr": "05:10",
+        "dep": "05:15",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12262",
+        "arr": "07:40",
+        "dep": "07:45",
+        "days": "Tu W Th Sa"
+      },
+      {
+        "train_no": "12294",
+        "arr": "12:31",
+        "dep": "12:35",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12261",
+        "arr": "19:25",
+        "dep": "19:31",
+        "days": "Tu W Th Su"
+      },
+      {
+        "train_no": "12293",
+        "arr": "19:25",
+        "dep": "19:31",
+        "days": "M F"
+      },
+      {
+        "train_no": "12289",
+        "arr": "22:25",
+        "dep": "22:31",
+        "days": "M Tu W Th F Sa Su"
+      }
+    ]
+  },
+  {
+    "station": "Indore",
+    "trains": [
+      {
+        "train_no": "12227",
+        "arr": "11:06",
+        "dep": "--",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12228",
+        "arr": "--",
+        "dep": "23:00",
+        "days": "F Su"
+      }
+    ]
+  },
+  {
+    "station": "Jabalpur",
+    "trains": [
+      {
+        "train_no": "12294",
+        "arr": "00:35",
+        "dep": "00:45",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12293",
+        "arr": "05:50",
+        "dep": "06:00",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Jaipur",
+    "trains": [
+      {
+        "train_no": "12239",
+        "arr": "14:35",
+        "dep": "--",
+        "days": "M W"
+      },
+      {
+        "train_no": "12240",
+        "arr": "--",
+        "dep": "19:11",
+        "days": "Tu Th"
+      }
+    ]
+  },
+  {
+    "station": "Jammu",
+    "trains": [
+      {
+        "train_no": "12266",
+        "arr": "--",
+        "dep": "19:20",
+        "days": "M W Sa"
+      },
+      {
+        "train_no": "12265",
+        "arr": "07:25",
+        "dep": "--",
+        "days": "M W Sa"
+      }
+    ]
+  },
+  {
+    "station": "Jasidih",
+    "trains": [
+      {
+        "train_no": "12274",
+        "arr": "05:06",
+        "dep": "05:09",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12273",
+        "arr": "12:25",
+        "dep": "12:27",
+        "days": "M F"
+      }
+    ]
+  },
+  {
+    "station": "Jhansi",
+    "trains": [
+      {
+        "train_no": "12213",
+        "arr": "01:15",
+        "dep": "01:20",
+        "days": "M"
+      },
+      {
+        "train_no": "12214",
+        "arr": "04:20",
+        "dep": "04:25",
+        "days": "Tu"
+      },
+      {
+        "train_no": "12269",
+        "arr": "05:30",
+        "dep": "05:35",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02285",
+        "arr": "05:30",
+        "dep": "05:35",
+        "days": "M F"
+      },
+      {
+        "train_no": "02286",
+        "arr": "20:22",
+        "dep": "20:27",
+        "days": "M F"
+      },
+      {
+        "train_no": "12270",
+        "arr": "20:22",
+        "dep": "20:27",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Kanpur",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "00:29",
+        "dep": "00:34",
+        "days": "Tu W F Sa"
+      },
+      {
+        "train_no": "12273",
+        "arr": "00:40",
+        "dep": "00:45",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12281",
+        "arr": "00:50",
+        "dep": "00:55",
+        "days": "Th"
+      },
+      {
+        "train_no": "12259",
+        "arr": "06:25",
+        "dep": "06:30",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12274",
+        "arr": "17:48",
+        "dep": "17:54",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12282",
+        "arr": "17:48",
+        "dep": "17:54",
+        "days": "Th"
+      }
+    ]
+  },
+  {
+    "station": "Kharagpur",
+    "trains": [
+      {
+        "train_no": "02202",
+        "arr": "01:10",
+        "dep": "01:15",
+        "days": "W F Su"
+      },
+      {
+        "train_no": "02201",
+        "arr": "22:15",
+        "dep": "22:20",
+        "days": "M W F"
+      }
+    ]
+  },
+  {
+    "station": "Kota",
+    "trains": [
+      {
+        "train_no": "12263",
+        "arr": "01:00",
+        "dep": "01:10",
+        "days": "W Sa"
+      },
+      {
+        "train_no": "02284",
+        "arr": "02:55",
+        "dep": "03:05",
+        "days": "Su"
+      },
+      {
+        "train_no": "22210",
+        "arr": "04:15",
+        "dep": "04:25",
+        "days": "W Sa"
+      },
+      {
+        "train_no": "22209",
+        "arr": "10:25",
+        "dep": "10:31",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02283",
+        "arr": "12:50",
+        "dep": "12:56",
+        "days": "Th"
+      },
+      {
+        "train_no": "12264",
+        "arr": "15:20",
+        "dep": "15:31",
+        "days": "M Th"
+      }
+    ]
+  },
+  {
+    "station": "Kozhikkode",
+    "trains": [
+      {
+        "train_no": "02283",
+        "arr": "02:47",
+        "dep": "02:50",
+        "days": "W"
+      },
+      {
+        "train_no": "12224",
+        "arr": "02:47",
+        "dep": "02:50",
+        "days": "M Th"
+      },
+      {
+        "train_no": "12223",
+        "arr": "15:23",
+        "dep": "15:25",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02284",
+        "arr": "13:27",
+        "dep": "13:31",
+        "days": "M"
+      }
+    ]
+  },
+  {
+    "station": "Loharu",
+    "trains": [
+      {
+        "train_no": "12259",
+        "arr": "14:23",
+        "dep": "14:26",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12260",
+        "arr": "16:08",
+        "dep": "16:11",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Lonavla",
+    "trains": [
+      {
+        "train_no": "12264",
+        "arr": "06:04",
+        "dep": "06:08",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12297",
+        "arr": "06:05",
+        "dep": "06:07",
+        "days": "M Tu F"
+      },
+      {
+        "train_no": "12263",
+        "arr": "11:58",
+        "dep": "12:00",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12298",
+        "arr": "22:18",
+        "dep": "22:20",
+        "days": "M Th Sa"
+      }
+    ]
+  },
+  {
+    "station": "Ludhiana",
+    "trains": [
+      {
+        "train_no": "12265",
+        "arr": "02:45",
+        "dep": "02:55",
+        "days": "M W Sa"
+      },
+      {
+        "train_no": "12266",
+        "arr": "23:15",
+        "dep": "23:25",
+        "days": "M W Sa"
+      }
+    ]
+  },
+  {
+    "station": "Madgaon",
+    "trains": [
+      {
+        "train_no": "02284",
+        "arr": "04:25",
+        "dep": "04:35",
+        "days": "M"
+      },
+      {
+        "train_no": "12223",
+        "arr": "07:10",
+        "dep": "07:20",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02283",
+        "arr": "12:50",
+        "dep": "13:00",
+        "days": "W"
+      },
+      {
+        "train_no": "12224",
+        "arr": "12:50",
+        "dep": "13:00",
+        "days": "M Th"
+      }
+    ]
+  },
+  {
+    "station": "Mangalore",
+    "trains": [
+      {
+        "train_no": "02283",
+        "arr": "06:10",
+        "dep": "06:20",
+        "days": "W"
+      },
+      {
+        "train_no": "12224",
+        "arr": "06:10",
+        "dep": "06:20",
+        "days": "M Th"
+      },
+      {
+        "train_no": "02284",
+        "arr": "10:15",
+        "dep": "10:25",
+        "days": "M"
+      },
+      {
+        "train_no": "12223",
+        "arr": "12:10",
+        "dep": "12:20",
+        "days": "W Su"
+      }
+    ]
+  },
+  {
+    "station": "Manmad",
+    "trains": [
+      {
+        "train_no": "12222",
+        "arr": "06:00",
+        "dep": "06:04",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12221",
+        "arr": "20:31",
+        "dep": "20:33",
+        "days": "M Sa"
+      }
+    ]
+  },
+  {
+    "station": "Mumbai (1/3)",
+    "trains": [
+      {
+        "train_no": "02283",
+        "arr": "00:00",
+        "dep": "00:10",
+        "days": "Th"
+      },
+      {
+        "train_no": "12298",
+        "arr": "00:40",
+        "dep": "00:45",
+        "days": "Tu F Su"
+      },
+      {
+        "train_no": "12264",
+        "arr": "03:50",
+        "dep": "03:55",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12297",
+        "arr": "03:50",
+        "dep": "03:55",
+        "days": "M Tu F"
+      },
+      {
+        "train_no": "12268",
+        "arr": "06:00",
+        "dep": "--",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12290",
+        "arr": "08:06",
+        "dep": "--",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12262",
+        "arr": "10:31",
+        "dep": "--",
+        "days": "Tu W Th Sa"
+      },
+      {
+        "train_no": "12228",
+        "arr": "10:50",
+        "dep": "--",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12240",
+        "arr": "10:50",
+        "dep": "--",
+        "days": "W F"
+      },
+      {
+        "train_no": "12220",
+        "arr": "11:06",
+        "dep": "--",
+        "days": "W Sa"
+      }
+    ]
+  },
+  {
+    "station": "Mumbai (2/3)",
+    "trains": [
+      {
+        "train_no": "12263",
+        "arr": "14:35",
+        "dep": "14:40",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12294",
+        "arr": "14:56",
+        "dep": "--",
+        "days": "W Su"
+      },
+      {
+        "train_no": "22210",
+        "arr": "16:15",
+        "dep": "--",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12261",
+        "arr": "--",
+        "dep": "17:15",
+        "days": "Tu W Th Su"
+      },
+      {
+        "train_no": "12293",
+        "arr": "--",
+        "dep": "17:25",
+        "days": "M F"
+      },
+      {
+        "train_no": "02284",
+        "arr": "17:56",
+        "dep": "18:00",
+        "days": "Su"
+      },
+      {
+        "train_no": "12289",
+        "arr": "--",
+        "dep": "20:15",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12223",
+        "arr": "--",
+        "dep": "20:50",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02283",
+        "arr": "22:40",
+        "dep": "22:45",
+        "days": "W"
+      },
+      {
+        "train_no": "12219",
+        "arr": "--",
+        "dep": "23:06",
+        "days": "W Sa"
+      }
+    ]
+  },
+  {
+    "station": "Mumbai (3/3)",
+    "trains": [
+      {
+        "train_no": "12227",
+        "arr": "--",
+        "dep": "23:15",
+        "days": "Th Sa"
+      },
+      {
+        "train_no": "12239",
+        "arr": "--",
+        "dep": "23:15",
+        "days": "Tu Su"
+      },
+      {
+        "train_no": "22209",
+        "arr": "--",
+        "dep": "23:15",
+        "days": "M F"
+      },
+      {
+        "train_no": "12267",
+        "arr": "--",
+        "dep": "23:25",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12224",
+        "arr": "23:56",
+        "dep": "--",
+        "days": "M Th"
+      }
+    ]
+  },
+  {
+    "station": "Nagpur",
+    "trains": [
+      {
+        "train_no": "12261",
+        "arr": "04:10",
+        "dep": "04:15",
+        "days": "M W Th F"
+      },
+      {
+        "train_no": "12221",
+        "arr": "04:10",
+        "dep": "04:15",
+        "days": "Tu Su"
+      },
+      {
+        "train_no": "02286",
+        "arr": "05:15",
+        "dep": "05:20",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12270",
+        "arr": "05:15",
+        "dep": "05:20",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12289",
+        "arr": "07:20",
+        "dep": "--",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12290",
+        "arr": "--",
+        "dep": "20:40",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12269",
+        "arr": "21:00",
+        "dep": "21:06",
+        "days": "M F"
+      },
+      {
+        "train_no": "02285",
+        "arr": "21:00",
+        "dep": "21:06",
+        "days": "Th Su"
+      },
+      {
+        "train_no": "12222",
+        "arr": "23:15",
+        "dep": "23:20",
+        "days": "Th Sa"
+      },
+      {
+        "train_no": "12262",
+        "arr": "23:15",
+        "dep": "23:20",
+        "days": "M Tu W F"
+      }
+    ]
+  },
+  {
+    "station": "New Delhi (1/2)",
+    "trains": [
+      {
+        "train_no": "12266",
+        "arr": "04:20",
+        "dep": "--",
+        "days": "Tu Th Su"
+      },
+      {
+        "train_no": "12281",
+        "arr": "06:25",
+        "dep": "--",
+        "days": "Th"
+      },
+      {
+        "train_no": "12273",
+        "arr": "06:25",
+        "dep": "--",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12263",
+        "arr": "06:55",
+        "dep": "--",
+        "days": "W Sa"
+      },
+      {
+        "train_no": "12213",
+        "arr": "07:00",
+        "dep": "--",
+        "days": "M"
+      },
+      {
+        "train_no": "12269",
+        "arr": "10:40",
+        "dep": "--",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02285",
+        "arr": "10:40",
+        "dep": "--",
+        "days": "M F"
+      },
+      {
+        "train_no": "12264",
+        "arr": "--",
+        "dep": "10:56",
+        "days": "M Th"
+      },
+      {
+        "train_no": "12259",
+        "arr": "11:31",
+        "dep": "11:45",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12274",
+        "arr": "--",
+        "dep": "12:56",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "New Delhi (2/2)",
+    "trains": [
+      {
+        "train_no": "12282",
+        "arr": "--",
+        "dep": "12:56",
+        "days": "Th"
+      },
+      {
+        "train_no": "02286",
+        "arr": "--",
+        "dep": "15:45",
+        "days": "M F"
+      },
+      {
+        "train_no": "12270",
+        "arr": "--",
+        "dep": "15:45",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "22209",
+        "arr": "16:31",
+        "dep": "--",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12260",
+        "arr": "19:15",
+        "dep": "19:40",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "02283",
+        "arr": "19:40",
+        "dep": "--",
+        "days": "Th"
+      },
+      {
+        "train_no": "02284",
+        "arr": "--",
+        "dep": "21:36",
+        "days": "Sa"
+      },
+      {
+        "train_no": "12265",
+        "arr": "--",
+        "dep": "22:15",
+        "days": "Tu F Su"
+      },
+      {
+        "train_no": "12214",
+        "arr": "--",
+        "dep": "23:00",
+        "days": "M"
+      },
+      {
+        "train_no": "22210",
+        "arr": "--",
+        "dep": "23:25",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Patna",
+    "trains": [
+      {
+        "train_no": "12274",
+        "arr": "01:10",
+        "dep": "01:20",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02213",
+        "arr": "06:40",
+        "dep": "--",
+        "days": "Tu Th Sa"
+      },
+      {
+        "train_no": "12273",
+        "arr": "16:20",
+        "dep": "16:31",
+        "days": "M F"
+      },
+      {
+        "train_no": "02214",
+        "arr": "--",
+        "dep": "20:40",
+        "days": "Tu Th Sa"
+      }
+    ]
+  },
+  {
+    "station": "Prayagraj",
+    "trains": [
+      {
+        "train_no": "12293",
+        "arr": "12:45",
+        "dep": "--",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12294",
+        "arr": "--",
+        "dep": "19:20",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Pune",
+    "trains": [
+      {
+        "train_no": "12219",
+        "arr": "02:05",
+        "dep": "02:10",
+        "days": "Th Su"
+      },
+      {
+        "train_no": "12264",
+        "arr": "07:10",
+        "dep": "--",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12297",
+        "arr": "07:10",
+        "dep": "--",
+        "days": "M Tu F"
+      },
+      {
+        "train_no": "12220",
+        "arr": "07:50",
+        "dep": "07:55",
+        "days": "W Sa"
+      },
+      {
+        "train_no": "12263",
+        "arr": "--",
+        "dep": "11:10",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12222",
+        "arr": "11:45",
+        "dep": "--",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12221",
+        "arr": "--",
+        "dep": "15:15",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12298",
+        "arr": "--",
+        "dep": "21:36",
+        "days": "M Th Sa"
+      }
+    ]
+  },
+  {
+    "station": "Rajkot",
+    "trains": [
+      {
+        "train_no": "12268",
+        "arr": "--",
+        "dep": "19:06",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12267",
+        "arr": "10:56",
+        "dep": "--",
+        "days": "M Tu W Th F Sa Su"
+      }
+    ]
+  },
+  {
+    "station": "Ratangarh",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "13:50",
+        "dep": "13:52",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12259",
+        "arr": "17:00",
+        "dep": "17:02",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Ratlam",
+    "trains": [
+      {
+        "train_no": "12228",
+        "arr": "01:50",
+        "dep": "01:55",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12240",
+        "arr": "01:50",
+        "dep": "01:55",
+        "days": "W F"
+      },
+      {
+        "train_no": "02284",
+        "arr": "07:05",
+        "dep": "07:10",
+        "days": "Su"
+      },
+      {
+        "train_no": "12227",
+        "arr": "07:25",
+        "dep": "07:30",
+        "days": "F Su"
+      },
+      {
+        "train_no": "22210",
+        "arr": "07:30",
+        "dep": "07:35",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12239",
+        "arr": "07:35",
+        "dep": "07:40",
+        "days": "M W"
+      },
+      {
+        "train_no": "22209",
+        "arr": "07:35",
+        "dep": "07:40",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02283",
+        "arr": "09:10",
+        "dep": "09:15",
+        "days": "Th"
+      },
+      {
+        "train_no": "12264",
+        "arr": "18:36",
+        "dep": "18:40",
+        "days": "M Th"
+      },
+      {
+        "train_no": "12263",
+        "arr": "22:11",
+        "dep": "22:15",
+        "days": "Tu F"
+      }
+    ]
+  },
+  {
+    "station": "Ratnagiri",
+    "trains": [
+      {
+        "train_no": "12223",
+        "arr": "02:50",
+        "dep": "02:55",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02283",
+        "arr": "17:11",
+        "dep": "17:15",
+        "days": "W"
+      },
+      {
+        "train_no": "12224",
+        "arr": "17:11",
+        "dep": "17:15",
+        "days": "M Th"
+      },
+      {
+        "train_no": "02284",
+        "arr": "23:20",
+        "dep": "23:25",
+        "days": "Su"
+      }
+    ]
+  },
+  {
+    "station": "Renigunta",
+    "trains": [
+      {
+        "train_no": "02245",
+        "arr": "10:10",
+        "dep": "10:15",
+        "days": "M W Th Sa Su"
+      },
+      {
+        "train_no": "02246",
+        "arr": "16:50",
+        "dep": "17:00",
+        "days": "M Tu Th F Su"
+      }
+    ]
+  },
+  {
+    "station": "Sadulpur",
+    "trains": [
+      {
+        "train_no": "12259",
+        "arr": "15:03",
+        "dep": "15:06",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12260",
+        "arr": "15:25",
+        "dep": "15:27",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Satna",
+    "trains": [
+      {
+        "train_no": "12293",
+        "arr": "08:31",
+        "dep": "08:40",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "12294",
+        "arr": "22:00",
+        "dep": "22:11",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Sawai Madhopur",
+    "trains": [
+      {
+        "train_no": "12239",
+        "arr": "12:10",
+        "dep": "12:20",
+        "days": "M W"
+      },
+      {
+        "train_no": "12240",
+        "arr": "20:56",
+        "dep": "21:06",
+        "days": "Tu Th"
+      }
+    ]
+  },
+  {
+    "station": "Secunderabad",
+    "trains": [
+      {
+        "train_no": "22203",
+        "arr": "06:15",
+        "dep": "--",
+        "days": "M W F"
+      },
+      {
+        "train_no": "12213",
+        "arr": "08:56",
+        "dep": "09:10",
+        "days": "Su"
+      },
+      {
+        "train_no": "12219",
+        "arr": "11:06",
+        "dep": "--",
+        "days": "Th Su"
+      },
+      {
+        "train_no": "02285",
+        "arr": "--",
+        "dep": "13:10",
+        "days": "Th Su"
+      },
+      {
+        "train_no": "02286",
+        "arr": "14:00",
+        "dep": "--",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "22204",
+        "arr": "--",
+        "dep": "20:15",
+        "days": "M W Sa"
+      },
+      {
+        "train_no": "12214",
+        "arr": "21:15",
+        "dep": "21:31",
+        "days": "Tu"
+      },
+      {
+        "train_no": "12220",
+        "arr": "--",
+        "dep": "23:06",
+        "days": "Tu F"
+      }
+    ]
+  },
+  {
+    "station": "Solapur",
+    "trains": [
+      {
+        "train_no": "12220",
+        "arr": "03:57",
+        "dep": "04:00",
+        "days": "W Sa"
+      },
+      {
+        "train_no": "12219",
+        "arr": "05:57",
+        "dep": "06:00",
+        "days": "Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Sri Dungargarah",
+    "trains": [
+      {
+        "train_no": "12260",
+        "arr": "13:09",
+        "dep": "13:10",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12259",
+        "arr": "17:47",
+        "dep": "17:48",
+        "days": "M Tu Th F"
+      }
+    ]
+  },
+  {
+    "station": "Surendranagar",
+    "trains": [
+      {
+        "train_no": "12267",
+        "arr": "08:24",
+        "dep": "08:34",
+        "days": "M Tu W Th F Sa Su"
+      },
+      {
+        "train_no": "12268",
+        "arr": "20:38",
+        "dep": "20:47",
+        "days": "M Tu W Th F Sa Su"
+      }
+    ]
+  },
+  {
+    "station": "Tatanagar",
+    "trains": [
+      {
+        "train_no": "12222",
+        "arr": "11:33",
+        "dep": "11:43",
+        "days": "Th Sa"
+      },
+      {
+        "train_no": "12262",
+        "arr": "11:33",
+        "dep": "11:43",
+        "days": "M Tu W F"
+      },
+      {
+        "train_no": "12261",
+        "arr": "15:56",
+        "dep": "16:06",
+        "days": "M W Th F"
+      },
+      {
+        "train_no": "12221",
+        "arr": "15:56",
+        "dep": "16:06",
+        "days": "Tu Su"
+      }
+    ]
+  },
+  {
+    "station": "Ujjain",
+    "trains": [
+      {
+        "train_no": "12228",
+        "arr": "00:15",
+        "dep": "00:20",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12227",
+        "arr": "08:50",
+        "dep": "08:56",
+        "days": "F Su"
+      }
+    ]
+  },
+  {
+    "station": "Vadodara",
+    "trains": [
+      {
+        "train_no": "12227",
+        "arr": "03:52",
+        "dep": "04:05",
+        "days": "F Su"
+      },
+      {
+        "train_no": "12239",
+        "arr": "03:52",
+        "dep": "04:05",
+        "days": "M W"
+      },
+      {
+        "train_no": "22209",
+        "arr": "03:52",
+        "dep": "04:05",
+        "days": "Tu Sa"
+      },
+      {
+        "train_no": "02283",
+        "arr": "05:13",
+        "dep": "05:31",
+        "days": "Th"
+      },
+      {
+        "train_no": "12228",
+        "arr": "05:20",
+        "dep": "05:30",
+        "days": "M Sa"
+      },
+      {
+        "train_no": "12240",
+        "arr": "05:20",
+        "dep": "05:30",
+        "days": "W F"
+      },
+      {
+        "train_no": "02284",
+        "arr": "11:01",
+        "dep": "11:20",
+        "days": "Su"
+      },
+      {
+        "train_no": "22210",
+        "arr": "11:10",
+        "dep": "11:20",
+        "days": "W Su"
+      },
+      {
+        "train_no": "12263",
+        "arr": "18:34",
+        "dep": "18:45",
+        "days": "Tu F"
+      },
+      {
+        "train_no": "12264",
+        "arr": "22:29",
+        "dep": "22:38",
+        "days": "M Th"
+      }
+    ]
+  },
+  {
+    "station": "Varanasi",
+    "trains": [
+      {
+        "train_no": "12259",
+        "arr": "02:20",
+        "dep": "02:30",
+        "days": "M Tu Th F"
+      },
+      {
+        "train_no": "12260",
+        "arr": "04:33",
+        "dep": "04:43",
+        "days": "Tu W F Sa"
+      },
+      {
+        "train_no": "12273",
+        "arr": "20:13",
+        "dep": "20:23",
+        "days": "M F"
+      },
+      {
+        "train_no": "12281",
+        "arr": "20:45",
+        "dep": "20:56",
+        "days": "W"
+      },
+      {
+        "train_no": "12282",
+        "arr": "21:50",
+        "dep": "22:00",
+        "days": "Th"
+      },
+      {
+        "train_no": "12274",
+        "arr": "22:11",
+        "dep": "22:20",
+        "days": "Tu Sa"
+      }
+    ]
+  },
+  {
+    "station": "Vijayawada",
+    "trains": [
+      {
+        "train_no": "22203",
+        "arr": "00:40",
+        "dep": "00:55",
+        "days": "M W F"
+      },
+      {
+        "train_no": "22204",
+        "arr": "01:05",
+        "dep": "01:15",
+        "days": "Tu Th Su"
+      },
+      {
+        "train_no": "02245",
+        "arr": "04:20",
+        "dep": "04:25",
+        "days": "M W Th Sa Su"
+      },
+      {
+        "train_no": "12269",
+        "arr": "12:20",
+        "dep": "12:31",
+        "days": "M F"
+      },
+      {
+        "train_no": "12270",
+        "arr": "14:20",
+        "dep": "14:25",
+        "days": "W Su"
+      },
+      {
+        "train_no": "02246",
+        "arr": "22:20",
+        "dep": "22:31",
+        "days": "M Tu Th F Su"
+      }
+    ]
+  },
+  {
+    "station": "Visakhapatnam",
+    "trains": [
+      {
+        "train_no": "22204",
+        "arr": "06:30",
+        "dep": "--",
+        "days": "Tu Th Su"
+      },
+      {
+        "train_no": "22203",
+        "arr": "--",
+        "dep": "19:45",
+        "days": "Tu Th Su"
+      }
+    ]
+  },
+  {
+    "station": "Vizianagram",
+    "trains": [
+      {
+        "train_no": "02246",
+        "arr": "04:30",
+        "dep": "04:40",
+        "days": "M Tu W F Sa"
+      }
+    ]
+  }
+]
